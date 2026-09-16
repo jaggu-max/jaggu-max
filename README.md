@@ -5,8 +5,6 @@
 ### 🎓 Computer Science Engineer
 ### 🤖 AI/ML Enthusiast • 💻 Full-Stack Developer • ⚡ Automation Builder
 
-</p>
-
 <p>
   <em>Building intelligent applications, practical software solutions, and automated workflows.</em>
 </p>
@@ -21,6 +19,15 @@
   <a href="mailto:jagadeeshbentoor@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jaggu-max&label=Profile%20Views&color=blue&style=flat" />
+
+<a href="https://github.com/jaggu-max?tab=followers">
+<img src="https://img.shields.io/github/followers/jaggu-max?label=Followers&style=flat" />
+</a>
+
 </p>
 
 </div>
