@@ -212,3 +212,36 @@ Cybersecurity          ████████████████░░░
 Computer Vision        ███████████████░░░░░░
 System Design          ██████████████░░░░░░░
 DSA & Problem Solving  ████████████████░░░░░
+
+📚 Currently Learning
+🧠 Advanced Data Structures & Algorithms
+🤖 Artificial Intelligence & Machine Learning
+🗣️ Large Language Models
+📄 Retrieval-Augmented Generation
+🔎 Vector Databases & Semantic Search
+🌐 Full-Stack Web Development
+🏗️ Software Architecture & System Design
+🔐 Cybersecurity
+💾 Database Systems
+📊 GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaggu-max&show_icons=true&hide_border=true&theme=tokyonight" /> <br/> <img src="https://streak-stats.demolab.com?user=jaggu-max&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaggu-max&layout=compact&hide_border=true&theme=tokyonight" /> </div>
+🌱 My Development Philosophy
+
+Learn the fundamentals. Build real projects. Understand how things work. Keep improving.
+
+I believe the best way to learn technology is by building, experimenting, debugging, and understanding the systems behind the software.
+
+📫 Let's Connect
+<div align="center">
+
+📧 jagadeeshbentoor@gmail.com
+
+<br><br>
+
+<a href="https://github.com/jaggu-max"> <img src="https://img.shields.io/badge/GitHub-jaggu--max-181717?style=for-the-badge&logo=github"> </a> <a href="mailto:jagadeeshbentoor@gmail.com"> <img src="https://img.shields.io/badge/Email-jagadeeshbentoor%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
+<div align="center">
+⚡ Build • Learn • Experiment • Innovate
+
+Thanks for visiting my profile! 🚀
+
+</div> ```
