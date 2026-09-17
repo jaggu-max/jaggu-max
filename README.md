@@ -311,25 +311,26 @@ DSA & Problem Solving  ████████████████░░░
 
 # 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
-
 <div align="center">
 
-<a href="https://github.com/jaggu-max">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaggu-max&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=jaggu-max&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Statistics"
+/>
 
 <br><br>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=jaggu-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+<img
+  src="https://streak-stats.demolab.com/?user=jaggu-max&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 <br><br>
 
-<a href="https://github.com/jaggu-max">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaggu-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaggu-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
 
 </div>
 
