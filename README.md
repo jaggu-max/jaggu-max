@@ -313,30 +313,21 @@ DSA & Problem Solving  ████████████████░░░
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=jaggu-max&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Statistics"
-/>
+### 🔥 GitHub Activity
+
+<a href="https://github.com/jaggu-max">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaggu-max&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</a>
 
 <br><br>
 
-<img
-  src="https://streak-stats.demolab.com/?user=jaggu-max&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaggu-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Top Languages"
-/>
+<a href="https://github.com/jaggu-max?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-jaggu--max-181717?style=for-the-badge&logo=github" alt="View repositories"/>
+</a>
 
 </div>
 
 ---
-
-
 
 # 🌱 Development Philosophy
 
