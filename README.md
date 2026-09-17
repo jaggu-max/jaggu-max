@@ -309,21 +309,42 @@ DSA & Problem Solving  ████████████████░░░
 
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
 
 ### 🔥 GitHub Activity
 
-<a href="https://github.com/jaggu-max">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaggu-max&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</a>
+<p>
+  <a href="https://github.com/jaggu-max">
+    <img
+      src="https://img.shields.io/github/followers/jaggu-max?label=Followers&style=for-the-badge&logo=github"
+      alt="GitHub Followers"
+    />
+  </a>
+  <a href="https://github.com/jaggu-max?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/jaggu-max?label=Stars&style=for-the-badge&logo=github"
+      alt="GitHub Stars"
+    />
+  </a>
+  <a href="https://github.com/jaggu-max">
+    <img
+      src="https://img.shields.io/github/created-at/jaggu-max/RAG-LLM?label=GitHub&style=for-the-badge&logo=github"
+      alt="GitHub"
+    />
+  </a>
+</p>
 
-<br><br>
+<br>
 
-<a href="https://github.com/jaggu-max?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-jaggu--max-181717?style=for-the-badge&logo=github" alt="View repositories"/>
-</a>
+<p>
+  <a href="https://github.com/jaggu-max?tab=repositories">
+    <strong>🚀 Explore my repositories →</strong>
+  </a>
+</p>
 
 </div>
 
